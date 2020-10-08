@@ -2,7 +2,7 @@ This Example Is Made After The Work I Will (By God's Will) Submit Back To My Cli
 
 Disclaimer : 
 -
--Aversatile Will As Agreed Only Scan & Gather OSINT On ONLY ONE/1 Domain/IPv4 Address
+-Aversatile Will As Agreed Only Scan & Gather OSINT On Only 1 Domain/IPv4 Address
 
 -Aversatile Will Not Focus On OWASP Top 10 General Vulnerabilities but may encounter such vulnerabilities in the scans performed.
 
